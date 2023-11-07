@@ -3,7 +3,7 @@ const siteMetadata = {
   title: '奇怪，怎么到了这里。',
   author: '鸟儿还是云朵',
   headerTitle: 'NRHSYD',
-  description: '一个博客',
+  description: '海内存知己，天涯若比邻',
   language: 'zh-cn',
   theme: 'system', // system, dark or light
   siteUrl: 'https://nrhsyd-blog.vercel.app',

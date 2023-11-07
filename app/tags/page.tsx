@@ -19,7 +19,7 @@ export default async function Page() {
           </h1>
         </div>
         <div className="flex max-w-lg flex-wrap">
-          {tagKeys.length === 0 && '无内容'}
+          {tagKeys.length === 0 && '无内容。'}
           {sortedTags.map((t) => {
             return (
               <div key={t} className="mb-2 mr-5 mt-2">

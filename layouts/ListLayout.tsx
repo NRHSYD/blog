@@ -111,7 +111,7 @@ export default function ListLayout({
           </div>
         </div>
         <ul>
-          {!filteredBlogPosts.length && '无内容'}
+          {!filteredBlogPosts.length && '无内容。'}
           {displayPosts.map((post) => {
             const { path, date, title, summary, tags } = post
             return (
