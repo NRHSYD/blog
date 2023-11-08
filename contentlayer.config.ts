@@ -71,7 +71,7 @@ function createSearchIndex(allBlogs) {
       `public/${siteMetadata.search.kbarConfig.searchDocumentsPath}`,
       JSON.stringify(allCoreContent(sortPosts(allBlogs)))
     )
-    console.log('Local search index generated...')
+    console.log('构建本地搜索索引...')
   }
 }
 
