@@ -9,6 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://nrhsyd-blog.vercel.app',
   siteRepo: 'https://github.com/NRHSYD/blog',
   siteLogo: '/static/images/logo.png',
+  socialBanner: '/static/images/ocean.jpeg',
   email: 'NRHSYD@outlook.com',
   github: 'https://github.com/NRHSYD',
   locale: 'zh-CN',
